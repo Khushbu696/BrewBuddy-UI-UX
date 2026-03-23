@@ -2,6 +2,10 @@
 
 BrewBuddy is a UI/UX case study for a mobile application that helps users discover and prepare coffee, tea, and wellness drinks — even without internet access.
 
+## 🔗 Figma Design
+
+https://www.figma.com/design/cJMZM1ncpcNg7f7DqegJ9d/My-Projects?node-id=838-205&t=PBTKlr3zh8kTmTES-1
+
 ## 🚀 Problem
 
 Users often search online repeatedly for drink recipes, especially in kitchens or low-network areas. There is no simple offline solution for quick access.
@@ -36,10 +40,6 @@ BrewBuddy provides:
   <img src="screens/Category_Screen.png" width="30%" />
   <img src="screens/Favorites_Screen.png" width="30%" />
 </p>
-
-## 🔗 Figma Design
-
-https://www.figma.com/design/cJMZM1ncpcNg7f7DqegJ9d/My-Projects?node-id=838-205&t=PBTKlr3zh8kTmTES-1
 
 ## ✨ What I Learned
 
